@@ -1,4 +1,4 @@
-# AIASE 2026 HW2 — Spec-Driven Development — From v1.0 to v2.0
+# Spec-Driven Development — From v1.0 to v2.0
 
 **Student:** Hsin-En Tsai  
 **Course:** Generative AI Application Systems and Engineering (AIASE 2026)  
