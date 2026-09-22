@@ -1,9 +1,4 @@
 # Spec-Driven Development — From v1.0 to v2.0
-
-**Student:** Hsin-En Tsai  
-**Course:** Generative AI Application Systems and Engineering (AIASE 2026)  
-**Project:** Knowledge Snippet Manager — from v1.0 to v2.0
-
 ---
 
 ## 1. Project Introduction
